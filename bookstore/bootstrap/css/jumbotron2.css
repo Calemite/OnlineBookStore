@@ -1,0 +1,8 @@
+/* jumbotron.css */
+
+.colorful-header {
+    background-color: #3498db; /* Change this color to your preferred one */
+    color: #fff; /* Text color for better contrast, adjust if needed */
+    padding: 20px;
+    text-align: center; /* Center the text */
+}
